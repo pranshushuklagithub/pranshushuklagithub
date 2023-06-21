@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranshu</h1>
-<h3 align="center">A passionate Software developer with considerable technical skills who possess self-discipline and the ability to work with minimum supervision.</h3>
+<h3 align="center">A passionate Software developer with considerable technical skills who possess self-discipline and the ability to work with minimum supervision. Looking forward to join a progressive organization with opportunities to work on significant projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshushuklagithub&label=Profile%20views&color=0e75b6&style=flat" alt="pranshushuklagithub" /> </p>
 
